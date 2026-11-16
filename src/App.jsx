@@ -2,7 +2,7 @@ import { useEffect } from "react";
 import HomeSection from "./sections/Home";
 import Numbers from "./sections/Numbers";
 import Projects from "./sections/Projects";
-import Services from "./sections/services";
+import Services from "./sections/Services";
 import Statement from "./sections/Statement";
 import Process from "./sections/Process";
 import Cta from "./sections/cta";
